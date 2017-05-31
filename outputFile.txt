@@ -1,0 +1,6 @@
+a b c
+avion b i
+b c a
+b i avion
+c a b
+i avion b
